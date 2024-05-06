@@ -6,7 +6,7 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav className="custom-navbar">
-      <h3>Navbar</h3>
+      <h3>Admin Dashboard</h3>
       <form className="search-box">
         <input
           type="search"

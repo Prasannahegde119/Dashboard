@@ -77,7 +77,7 @@ function Dashboard() {
       <div>
         <Graphs />
       </div>
-      <div>
+      <div className="charts">
         <UserDetails />
       </div>
     </div>

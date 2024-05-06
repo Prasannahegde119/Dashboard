@@ -35,3 +35,7 @@
   flex-direction: column;
   gap: 30px;
 }
+
+.charts {
+  padding-left: 20px;
+}
